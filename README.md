@@ -1,4 +1,6 @@
 # Credit Risk Analysis
+Full report can be accessed [here](https://github.com/thisissteff/credit_risk_analysis/blob/main/creditRiskModelling.pdf)
+Full R Markdown file can be accessed [here](https://github.com/thisissteff/credit_risk_analysis/blob/main/Grp43RCode.pdf)
 
 ## Background
 Credit risk analysis is a crucial process in the financial industry that involves assessing the likelihood of a borrower defaulting on their loan. Inaccurate credit risk assessments can result in losses, and bankruptcy as evident during the global financial crisis of 2008. Machine learning and big data analysis has emerged as powerful tools for analysing credit risk, enabling lenders to make more informed lending decisions.
